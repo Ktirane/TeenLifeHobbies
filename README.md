@@ -1,1 +1,1 @@
-# TeenLifeHobbies
+simple website based on javascript ahout teen life hobbies
